@@ -1,4 +1,4 @@
-FROM openjdk:11
+FROM bellsoft/liberica-openjdk-alpine:17
 
 LABEL maintainer="Raghav Sharma <raghav.sharma.external@airbus.com>"
 
