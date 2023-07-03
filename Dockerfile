@@ -1,4 +1,4 @@
-FROM FROM openjdk:11
+FROM openjdk:11
 
 LABEL maintainer="Raghav Sharma <raghav.sharma.external@airbus.com>"
 
